@@ -9,6 +9,7 @@ The website contains 5 pages as per the said tasks, and an additional page as me
 ## Screenshot
 
 ![Screenshot of Homepage](images/screenshot.png)
+*Screenshot of Homepage*
 
 ## List of Pages
 
