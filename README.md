@@ -2,7 +2,9 @@
 
 This is a fictional website of Lumon Industries, that I made as part of the Week-1 Training's project requirement.
 The webpage is built with all the things I have learned in the past 5 days with consistent navigations structure,
-proper W3C validation passes and 90+ Lighthouse Accessibility on all pages.
+proper W3C validation passes and 90+ Lighthouse Accessibility on all pages. 
+
+The website contains 5 pages as per the said tasks, and an additional page as mentioned in the daily challenge. It is currently hosted on GitHub pages and running [here](https://gaureshpa.github.io/Week1-Project/)
 
 ## Screenshot
 
@@ -22,9 +24,12 @@ This project consists of the following pages:
 
 5. **contact.html**: This page consists of a contact form with various user input and a field for message text. At the end of the page, there's an address section with an embedded Google Maps Link followed by the company's contact details such email and phone numbers.
 
+6. **products.html**: This page consist of filterable data table of twelve products with a checkbox for in-stock items. Currently this page doesn't use any Javascript and is written in plain HTML.
+
 ## Technologies Used
 
 - HTML5
+- Inline CSS
 
 ## Local Installation Techniques
 
